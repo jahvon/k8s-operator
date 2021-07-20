@@ -1,0 +1,7 @@
+apiVersion: operations.jahvon.dev/v1alpha1
+kind: Build
+metadata:
+  name: build-sample
+spec:
+  # Add fields here
+  foo: bar
